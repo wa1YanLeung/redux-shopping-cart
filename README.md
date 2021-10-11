@@ -1,6 +1,6 @@
 # Redux-shopping-cart
 
-##Features include adding and deleting items, selecting single item, changing item quantity, and viewing item quantity at global state.
+## Features include adding and deleting items, selecting single item, changing item quantity, and viewing item quantity at global state.
 
 https://redux-shopping-cart-1021.netlify.app/
 
